@@ -14,7 +14,7 @@ in this store much better."
 
 ## Scenario 2
 
-At McVegan's, if we want to show diners when their order is ready we nee:
+At McVegan's, if we want to show diners when their order is ready we need:
 
 * A TV
 * An order tracking system
