@@ -26,11 +26,13 @@ At McVegan's, if we want to show diners when their order is ready we need:
 
 I want to create a way to create templates.
 
+<pre>
 For each word in a string
-  If the word starts with `${`
+  If the word starts with `${` and we can find a "closing" `}`
     Grab the word inside the `${` and `}`
       Use that word as a key in a hash and add that value to the `output` string
   If the word doesn't start with `${`, put the word in the `output` string
+</pre>
 
 ## Scenario 4
 
